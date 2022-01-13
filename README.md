@@ -43,7 +43,7 @@ None of that actually worked. You can see the results.
 
 # Final Optimization
 This didn't really help, but the idea was that before you evaluate the word combinations, you'd first make sure that they're unique combinations. Somewhere along the way I thought I should remove all words with A & E in them, since:
-<img src="/Images/letter_frequency.png>
+[Letter Distribution Frequency](/Images/letter_frequency.png)
 
 Not a big help. I also did some other things that should have improved. But alas! it didn't. Check out the code yourself.
 
@@ -64,7 +64,7 @@ As you can see, it's pretty shit.
 
 Here is a code you can use to find what you're missing:
 
-```
+```python
 x = "IndexLewisDepthSugarClock"
 currentString = "".join((x.lower()))
 uniqueString = ''.join(set(currentString))
