@@ -1,3 +1,6 @@
+# Update
+I've made some approach changes. The below is the older approach. Here is the new approach: 
+
 # Summary
 Wordle is an up & coming word game where you have to 'predict' a 5 letter word by guessing 5 5-letter words.
 Each guess gives you a clue on the presence & position of the letter in the final word.
