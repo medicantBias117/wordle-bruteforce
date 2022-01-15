@@ -1,5 +1,6 @@
 # Update
 I've made some approach changes. The below is the older approach. Here is the new approach: 
+https://rkakodker.medium.com/brute-forcing-wordle-solutions-ce4c5f8d1200
 
 # Summary
 Wordle is an up & coming word game where you have to 'predict' a 5 letter word by guessing 5 5-letter words.
