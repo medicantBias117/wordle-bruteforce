@@ -1,4 +1,16 @@
-# Update
+# Update (20th Jan)
+So Marton Trencseni found the 5 words. Check it out here:
+https://bytepawn.com/optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii.html#optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii
+in no less than 13mins! 
+
+I've gone ahead and thrown up a UI to help find solutions: https://wordle-assistant.herokuapp.com/
+And added some explanation & justifications on why this approach works:
+https://rkakodker.medium.com/wordle-solutions-using-5-magic-words-9331402842e5
+
+Hope this helps
+
+
+# Update (older)
 I've made some approach changes. The below is the older approach. Here is the new approach: 
 https://rkakodker.medium.com/brute-forcing-wordle-solutions-ce4c5f8d1200
 
